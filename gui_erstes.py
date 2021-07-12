@@ -9,7 +9,7 @@ random.seed()
 #	 "der feine",
 	# "der Herr",
 #	 "der trunkenbold"]
-	(random.choice(titellist))
+	#(random.choice(titellist))
 
 def ende():
 	main.destroy()
